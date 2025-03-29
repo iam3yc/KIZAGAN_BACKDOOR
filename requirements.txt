@@ -1,0 +1,12 @@
+os-sys
+socket
+base64
+ssl
+simplejson
+queue
+threading
+prettytable
+pickle-mixin
+struct
+opencv-python
+pillow
