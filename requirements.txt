@@ -1,12 +1,5 @@
-os-sys
-socket
-base64
-ssl
-simplejson
-queue
-threading
-prettytable
-pickle-mixin
-struct
-opencv-python
-pillow
+numpy==2.2.4
+opencv_python==4.11.0.86
+Pillow==11.1.0
+prettytable==3.16.0
+simplejson==3.20.1
